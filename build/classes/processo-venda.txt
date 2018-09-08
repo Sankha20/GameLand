@@ -1,0 +1,23 @@
+o cliente chega com o(s) produto(s)
+
+O vendedor busca o código ou título do produto no banco
+
+Selciona o produto correto e clica para adicionar ao carrinho
+
+Aparece uma tela onde ele selciona a quantidade e clica em confirmar
+
+Faz isso para todos os produtos
+
+Vai até a tela de vendas (carrinho)
+
+Insere informações do cliente (cpf)
+
+Finaliza compra
+
+
+Ao finalizar a compra, automaticamente:
+
+- Gera a Nota Fiscal
+- Adiciona entrada de venda no banco de dados
+- Atualiza o estoque
+- Atribui venda ao funcionário (Contador de vendas realizadas, não precisa estar no projeto, só é algo a mais que pensei)

@@ -1,0 +1,24 @@
+Jogos
+Código do produto, preço, quantidade, quantidade vendida, descrição
+ 
+
+Venda
+ID
+Data
+id_vendedor
+Listar produtos com: código, preço, quantidade
+Cliente -OPT
+
+
+Vendedor
+id, nome, senha, cargo, qtd_venda
+
+
+Clientes
+CPF e nome
+
+
+Tabelas
+Jogos x Vendas
+
+

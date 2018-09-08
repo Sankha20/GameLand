@@ -1,0 +1,5 @@
+Ator digita na caixa de busca
+
+O sistema valida a string
+
+Conecta-se a o BD e retorna uma list

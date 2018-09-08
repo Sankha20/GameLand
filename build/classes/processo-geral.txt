@@ -1,0 +1,10 @@
+---- LOGIN ----
+# Tempo: 4h
+
+Entrar com usuário
+Entrar com senha
+
+O sistema verifica se os dados digitados são válidos
+O sistema busca no banco de dados e verifica se usuário e senha coincidem
+Se sim, abre a tela principal
+

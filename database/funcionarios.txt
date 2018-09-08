@@ -1,0 +1,19 @@
+insert into admins values ("admin_victor", "Victor Pontes", "admvictor", 0, 0);
+
+insert into admins values ("admin_danielle", "Danielle Alves", "admdanielle", 0, 0);
+
+insert into admins values ("admin_rodrigo", "Rodrigo Cerqueira", "admrodrigo", 0, 0);
+
+insert into admins values ("admin_jociara", "Jociara", "admjociada", 0, 0);
+
+insert into admins values ("emp_vendedor1", "Vendedor 1", "vendedor1", 1, 0);
+
+insert into admins values ("emp_vendedor2", "Vendedor 2", "vendedor2", 1, 0);
+
+insert into admins values ("emp_vendedor3", "Vendedor 3", "vendedor3", 1, 0);
+
+insert into admins values ("emp_vendedor4", "Vendedor 4", "vendedor4", 1, 0);
+
+insert into admins values ("emp_vendedor5", "Vendedor 5", "vendedor5", 1, 0);
+
+insert into admins values ("emp_vendedor6", "Vendedor 6", "vendedor6", 1, 0);
